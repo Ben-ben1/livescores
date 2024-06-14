@@ -36,20 +36,20 @@ function Home() {
             </div>
             </div> */}
             {/* <script type="module" src=""></script> */}
-            {/* style={{height: '150px'}} style={{width: '190px', height: '1190px'}} */}
-
+            {/* style={{width: '150px'}} style={{width: '190px', height: '1190px'}} */}
            
-            <img src="https://www-konga-com-res.cloudinary.com/image/upload/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/v1608033519/contentservice/Jara%2060%20off%20banner%20web%203.gif_SyreHXInP.gif" alt="Direct From Samsung"  style={{width: '1493px'}} />
+           
+            <img src="https://www-konga-com-res.cloudinary.com/image/upload/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/v1608033519/contentservice/Jara%2060%20off%20banner%20web%203.gif_SyreHXInP.gif" alt="Direct From Samsung" style={{width: '100%'}} />
             
-            <img src={PIC} alt="" />
+            <img src={PIC} alt="" className='google2' width="100%"/>
           
              
-             <div className="container-fluid">
+            <div className="container-fluid">
             <div className="row">
        
             <div className="col-md-2">
             <div className='konga'>
-            <img src="https://www-konga-com-res.cloudinary.com/image/upload/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/v1608033519/contentservice/Jara%2060%20off%20banner%20web%203.gif_SyreHXInP.gif" alt="Direct From Samsung"  style={{width: '230px', height: '550px'}} />
+            <img src="https://www-konga-com-res.cloudinary.com/image/upload/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/v1608033519/contentservice/Jara%2060%20off%20banner%20web%203.gif_SyreHXInP.gif" alt="Direct From Samsung"  style={{width: '100%', height: '550px'}} />
 
                 </div>
                 </div>
@@ -61,7 +61,7 @@ function Home() {
               
                 </div>
            
-                <img src="https://www-konga-com-res.cloudinary.com/image/upload/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/v1608033519/contentservice/Jara%2060%20off%20banner%20web%203.gif_SyreHXInP.gif" alt="Direct From Samsung" />
+                <img src="https://www-konga-com-res.cloudinary.com/image/upload/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/v1608033519/contentservice/Jara%2060%20off%20banner%20web%203.gif_SyreHXInP.gif" alt="Direct From Samsung" style={{width: '100%'}}/>
                
                 </div>
     </>
