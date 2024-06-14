@@ -1,0 +1,15 @@
+{
+  "headers": [
+
+  {
+    "source": "/(.*)",
+    "headers":[
+      {
+        "key":
+        "Consent-Security-Policy",
+        "value": "defaul-src 'self' http://www.fctables.com/livescore_feed/4418925c448c01e6ce77ee63f/;"
+      }
+    ]
+  }
+  ]
+}
