@@ -55,13 +55,16 @@ function Home() {
                 </div>
                 <div className="col-md-10 pt-4">
               
-     <iframe id="iframe-livescore-box" SRC="http://www.fctables.com/livescore_feed/4418925c448c01e6ce77ee63f/" width="100%" scroll="no" frameborder="0" height="650"></iframe> <a href="http://www.fctables.com" title="Soccer statistics" target="_blank">Football Statistics</a><script>window.addEventListener("DOMContentLoaded",function(){(function(){var a=window.addEventListener?"addEventListener":"attachEvent",b=window[a],c="attachEvent"==a?"onmessage":"message",d=document.getElementById("iframe-livescore-box");b(c,function(a){var b=JSON.parse(a.data);d.style.height=b.height+"px",console.log(b)},!1)})()},!1);</script> 
+     <iframe id="iframe-livescore-box" SRC="http://www.fctables.com/livescore_feed/4418925c448c01e6ce77ee63f/" width="100%" scroll="no" frameborder="0" height="650"></iframe>  <a href="http://www.fctables.com" title="Soccer statistics" target="_blank">Football Statistics</a><script>window.addEventListener("DOMContentLoaded",function(){(function(){var a=window.addEventListener?"addEventListener":"attachEvent",b=window[a],c="attachEvent"==a?"onmessage":"message",d=document.getElementById("iframe-livescore-box");b(c,function(a){var b=JSON.parse(a.data);d.style.height=b.height+"px",console.log(b)},!1)})()},!1);</script> 
 
-               </div>
+                </div>
               
                 </div>
            
                 <img src="https://www-konga-com-res.cloudinary.com/image/upload/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/v1608033519/contentservice/Jara%2060%20off%20banner%20web%203.gif_SyreHXInP.gif" alt="Direct From Samsung" style={{width: '100%'}}/>
+               
+
+
                
                 </div>
     </>
